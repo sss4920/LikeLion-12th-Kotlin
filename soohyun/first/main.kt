@@ -1,4 +1,4 @@
-package kotlinstudy
+package soohyun.first
 
 fun main(){
     for (i in 0..9 step 3){ //파이썬 처럼 하면 되는듯.
